@@ -16,4 +16,5 @@ SO THAT the site is optimized for search engines
 * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
 * Application's CSS file is properly commented.
 
-<strong> [Deployed page]() </strong>
+
+<strong> [Deployed page](https://leeathena.github.io/horiseon-code-refactor/) </strong>
